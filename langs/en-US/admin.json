@@ -1,0 +1,31 @@
+{
+    "BAN": {
+        "BOT_NOPERM": "❌ | I do not have permission, please contact an administrator",
+        "USER_NOPERM": "❌ | You have permission `ADMINISTRATOR` to ban",
+        "NO_TARGET": "❌ | Please tag target",
+        "SUCCESS": "❌ | 👌 | %user% is banned for reason: %reason%",
+        "ERROR": "🙏 | could not ban because: `%error%`",
+        "NO_REASON": "No reason"
+    },
+    "KICK": {
+        "BOT_NOPERM": "❌ | Im not have permission `ADMINISTRATOR` to kick",
+        "USER_NOPERM": "❌ | You not have permission `ADMINISTRATOR` to kick",
+        "NO_TARGET": "❌ | Please tag target",
+        "SUCCESS": "❌ | 👌 | %user% is kick for reason: %reason%",
+        "ERROR": "🙏 | could not kick because: `%error%`",
+        "NO_REASON": "No reason"
+    },
+    "CLEAR_MSG": {
+        "BOT_NOPERM": "❌ | Im not have permission `ADMINISTRATOR` to clear a messages",
+        "USER_NOPERM": "❌ | You do not have permission contact an administrator",
+        "LIMIT": "⚠️ | You can only delete messages form start to 100 messages, please enter value",
+        "EXPIRE": "⚠️ | I can't delete message more than `14` days"
+    },
+    "PREIFX":{
+        "USER_NOPERM": "❌ | You can't do this!",
+        "TOO_LONG": "❌ | Prefix too long: `%prefix%`",
+        "SUCCESS": "✅ | New prefix set to `%prefix%`",
+        "USAGE": "❌ | Please enter new prefix by type: `%prefix%prefix <new_prefix>`",
+        "ALREADY": "❌ | Prefix `%preifx%` already set!"
+    }
+}

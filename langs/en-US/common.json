@@ -1,0 +1,5 @@
+{
+  "USER_NO_PERM": "You need permission ``%permission%`` to use %action%!",
+  "BOT_NO_PERM": "Im not have permission ``%permission%`` to use %action%!",
+  "API_FILED": "API Failed: %error%"
+}

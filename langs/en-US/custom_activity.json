@@ -1,0 +1,19 @@
+{
+    "POKER": "Poker Night",
+    "BETRAYAL": "Betrayal.io",
+    "YOUTUBE": "YouTube Together",
+    "FISHINGTON": "Fishington.io",
+    "TITLE": "📝・ Create new activity link",
+    "FAILED": "❌ Link create failed!",
+    "ERROR": "Error",
+    "INVALID_CHANNEL": "❌ | Invalid channel specified!",
+    "BOT_NOPERM": "Need `CREATE_INSTANT_INVITE` permission",
+    "ACTIVITY_NOT_FOUND": "Activity not found!\nCorrect formats:\n",
+    "LINK_FAILED": "Invite link failed",
+    "ACTIVITY_TITLE": "Activity: ``%name%``",
+    "ACTIVITY_CREATED": "✅ Link created!",
+    "ACTIVITY_CREATED_TITLE": "VoiceChat: ``%guild_name%/%channel_name%``\nActivity: ``%activity_name%``",
+    "ACTIVITY_CREATED_DESP": "[Click here to join %channel_name% with custom activity **%activity_name%**](https://discord.gg/%invite_code%)\n**This link will expires in 24 hrs**",
+    "NOT_IN_VC": "You're not in a voice channel!",
+    "API_FAILED": "Request API Failed!"
+}
