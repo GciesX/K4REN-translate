@@ -1,0 +1,224 @@
+{
+    "ANIME_SAUCE_FINDER": {
+        "EMOJI_HELP": "React to ⭐ or 🎨 to switch anime or artwork search!",
+        "NO_IMAGE": "Please add an image, or image URL!",
+        "NOT_IMAGE": "The file/extention is not an image!",
+        "NO_PERM": "❌ K4REN or You not have ADD_REACTIONS,SEND_MESSAGE permission to switch to artwork or anime page please add permission ADD_REACTIONS,SEND_MESSAGE (switch page not available)",
+        "ANIME": {
+            "REQUESTING": "Searching anime...",
+            "NSFW_WARN": "**NSFW Anime careful!**",
+            "UNKNOWN_COUNTRY": "Unknown origin country",
+            "UNKNOWN_FORMAT": "Unknown format",
+            "UNKNOWN_TITLE": "Unknown Title",
+            "SEARCH_RESULT": "Anime search result (%similarity%%)",
+            "EPISODE": "Episode",
+            "TIME": "Time:",
+            "DESCRIPTION": "Description",
+            "EXTERNAL_LINKS": "External links",
+            "TITLE_ENGLISH": "English Title",
+            "TITLE_ROMAJI": "Romaji Title",
+            "TITLE_NATIVE": "Native Title",
+            "SYNONYMS": "Synonyms",
+            "STATUS": "Status/Source",
+            "TAG": "Hashtag",
+            "THIS_SCENE": "This scene",
+            "MAL": "Myanimelist",
+            "ANILIST": "Anilist",
+            "SITE": "Offical Site",
+            "VIDEO": "Trailer",
+            "NOT_FOUND": "❌ No any anime found :(",
+            "API_FAILED": "❌ Anime search is not available for now sorry!"
+        },
+        "ARTWORK":{
+            "REQUESTING": "Searching artwork...",
+            "NO_TITLE": "No artwork title",
+            "SEARCH_RESULT": "Artwork search result (%similarity%%)",
+            "NOT_FOUND": "❌ No any artwork found :(",
+            "FOUND": "Found in: %source%",
+            "CHARACTER": "Character:",
+            "ARTIST": "Artist:",
+            "LINK": "Link:",
+            "MORE": "More similar (%similar_count%)",
+            "API_FAILED": "❌ Artwork/Manga search is not available for now sorry!"
+        }
+    },
+    "ROLL": {
+        "REQUESTING": "🔄 | Rolling...",
+        "REQUEST_OK": "✅ | %user% rolls %point% point(s)"
+    },
+    "THROW": {
+        "EMPTY_TARGET": "❌ | Please tag target by `%prefix%throw @discord_user`",
+        "GOT_THROW": "✅ | `%target%` got throw!",
+        "NO_ROOM_FOUND": "❌ | No room to throw!",
+        "USER_NOT_IN_VC": "❌ | You must in voice chat to throw!",
+        "TARGET_NOT_IN_VC": "❌ | %target% not in voice chat!"
+    },
+    "INVITE": {
+        "TITLE": "Yay invite me! ~",
+        "VALUE": "✅ | [Invite K4REN Click Me!](%invite_link%) \nor %invite_link%"
+    },
+    "HELP": {
+        "CHECK_DM": "Please check your DM!",
+        "MAIN": {
+            "TITLE": "Help commands",
+            "DISCRIPTION": "⭐ Please **REACT** to emoji to view help by category" ,
+            "DISCRIPTION_DM": "⭐ K4REN can't send help message to that channel, so i DM for now!",
+            "FIELDS": [
+                {
+                    "TITLE": "⌨️ Command Category:",
+                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 Custom activity\n--> 🎵 Music Player\n--> 📊 Admin/Moderator commands\n--> ❌ - Close this message"
+                },
+                {
+                    "TITLE": "💭 Infomation:",
+                    "VALUE": "-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> ``Uptime:`` %uptime%\n->Argument: ``(optional)`` ``<required>``\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
+                }
+            ]
+        },
+        "TIMEOUT": {
+            "TITLE": "❌・Command Timeout",
+            "DISCRIPTION": "⭐ Command timeout use %prefix%help in server text channel again to show help again!",
+            "FIELDS": []
+        },
+        "CLOSED": {
+            "TITLE": "❌・Help closed!",
+            "DISCRIPTION": "⭐ You can open help again by type: `%prefix%help`",
+            "FIELDS": []
+        },
+        "GENERAL": {
+            "TITLE": "📝・ General commands",
+            "DISCRIPTION": "⭐ More Soon!",
+            "FIELDS": [
+                {
+                    "TITLE": "```%prefix%roll <argument>/<number>```",
+                    "VALUE": "[TRUE RANDOM] draws a random number from 1 to the selected number. If the number is not specified or an argument is given, then the maximum number will be set to 100."
+                },
+                {
+                    "TITLE": "```%prefix%throw <target>```",
+                    "VALUE": "throw him by move to other VC"
+                },
+                {
+                    "TITLE": "```%prefix%sani <image url>/<image attachment>```",
+                    "VALUE": "Find sauce (artwork or anime) from image"
+                }
+            ]
+        },
+        "MUSIC": {
+            "TITLE": "🎵・Music Player commands",
+            "DISCRIPTION": "⭐ You can play some music to your discord by type command here!",
+            "FIELDS": [
+                {
+                    "TITLE": "```%prefix%clear-queue```",
+                    "VALUE": "Clear all queues"
+                },
+                {
+                    "TITLE": "```%prefix%filter <filter_name>```",
+                    "VALUE": "toogle filter effects"
+                },
+                {
+                    "TITLE": "```%prefix%loop```",
+                    "VALUE": "set repeat song"
+                },
+                {
+                    "TITLE": "```%prefix%nowplaying```",
+                    "VALUE": "view current playing song"
+                },
+                {
+                    "TITLE": "```%prefix%pause```",
+                    "VALUE": "pause current song"
+                },
+                {
+                    "TITLE": "```%prefix%play <youtube_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
+                    "VALUE": "add new song to queue or start play song"
+                },
+                {
+                    "TITLE": "```%prefix%resume```",
+                    "VALUE": "resume current song"
+                },
+                {
+                    "TITLE": "```%prefix%back```",
+                    "VALUE": "back to previous song"
+                },
+                {
+                    "TITLE": "```%prefix%seek <time>```",
+                    "VALUE": "back to previous song"
+                },
+                {
+                    "TITLE": "```%prefix%lyrics (songname) (artistname)```",
+                    "VALUE": "back to previous song"
+                },
+                {
+                    "TITLE": "```%prefix%search <keyword>```",
+                    "VALUE": "search for song (youtube)"
+                },
+                {
+                    "TITLE": "```%prefix%shuffle```",
+                    "VALUE": "shuffle queue songs"
+                },
+                {
+                    "TITLE": "```%prefix%skip```",
+                    "VALUE": "skip current song"
+                },
+                {
+                    "TITLE": "```%prefix%volume <number>```",
+                    "VALUE": "turn up/down volume"
+                },
+                {
+                    "TITLE": "```%prefix%filters```",
+                    "VALUE": "list of filter effect (disable or enable)"
+                }
+            ]
+        },
+        "ACTIVITY": {
+            "TITLE": "💻・ Activity commands",
+            "DISCRIPTION": "⭐ To create new activity with invite link you can use list of this commandsn `<VC_ID or VC_Name>` is optional you can join voicechat and use command without arguments",
+            "FIELDS": [
+                {
+                    "TITLE": "```%prefix%youtube <Room_ID or VC_Name>```",
+                    "VALUE": "Create new invite link to open activity youtube watch together!"
+                },
+                {
+                    "TITLE": "```%prefix%betrayal <Room_ID or VC_Name>```",
+                    "VALUE": "Create new invite link to open activity Betrayal.io!"
+                },
+                {
+                    "TITLE": "```%prefix%fishington <Room_ID or VC_Name>```",
+                    "VALUE": "Create new invite link to open activity Fishington.io!"
+                },
+                {
+                    "TITLE": "```%prefix%poker <Room_ID or VC_Name>```",
+                    "VALUE": "Create new invite link to open activity Fishington.io!"
+                },
+                {
+                    "TITLE": "```%prefix%act <Room_ID or VC_Name> <youtube/poker/betrayal/fishington>```",
+                    "VALUE": "Create new invite link to open custom activity"
+                },
+                {
+                    "TITLE": "```%prefix%c-act <Room_ID or VC_Name> <activity_id>```",
+                    "VALUE": "Create new invite link to open custom activity with custom activity id"
+                }
+            ]
+        },
+        "ADMIN": {
+            "TITLE": "📊・Admin/Moderator commands",
+            "DISCRIPTION": "⭐ More Soon!",
+            "FIELDS": [
+                {
+                    "TITLE": "```%prefix%prefix <new_prefix>```",
+                    "VALUE": "set new command prefix"
+                },
+                {
+                    "TITLE": "```%prefix%kick <user> (reason)```",
+                    "VALUE": "kick a member"
+                },
+                {
+                    "TITLE": "```%prefix%ban <user> (reason)```",
+                    "VALUE": "ban a member"
+                },
+                {
+                    "TITLE": "```%prefix%clearmsg <start number> <to number>```",
+                    "VALUE": "remove mmultiple message"
+                }
+            ]
+        }
+    }
+}
