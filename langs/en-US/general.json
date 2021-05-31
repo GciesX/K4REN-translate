@@ -1,4 +1,5 @@
 {
+    "TRANSLATOR_CREDIT": "Thanks to ST4RCHASER to translate K4REN!",
     "ANIME_SAUCE_FINDER": {
         "EMOJI_HELP": "React to ⭐ or 🎨 to switch anime or artwork search!",
         "NO_IMAGE": "Please add an image, or image URL!",
@@ -127,7 +128,7 @@
                     "VALUE": "pause current song"
                 },
                 {
-                    "TITLE": "```%prefix%play <youtube_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
+                    "TITLE": "```%prefix%play <youtube_url/youtube_music_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
                     "VALUE": "add new song to queue or start play song"
                 },
                 {
