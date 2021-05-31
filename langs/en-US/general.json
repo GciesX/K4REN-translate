@@ -1,5 +1,4 @@
 {
-    "TRANSLATOR_CREDIT": "Thanks to ST4RCHASER to translate K4REN!",
     "ANIME_SAUCE_FINDER": {
         "EMOJI_HELP": "React to ⭐ or 🎨 to switch anime or artwork search!",
         "NO_IMAGE": "Please add an image, or image URL!",
@@ -71,7 +70,7 @@
                 },
                 {
                     "TITLE": "💭 Infomation:",
-                    "VALUE": "-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> ``Uptime:`` %uptime%\n->Argument: ``(optional)`` ``<required>``\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
+                    "VALUE": "-> **Prefix:** ``%prefix%``\n-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> Uptime: ``%uptime%``\n->Argument: ``(optional)`` ``<required>``\n\nTranslator: [%translator%](https://github.com/ST4RCHASER/K4REN-translate)\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
                 }
             ]
         },
