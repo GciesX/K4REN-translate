@@ -2,9 +2,9 @@
     "ban":{
         "BOT_NOPERM": "❌ | บอทไม่มีสิทธ์ในการใช้สิ่งนี้ โปรดติตต่อแอดมิน",
         "USER_NOPERM": "❌ | คุณไม่มีสิทธ์ `ADMINISTRATOR` เพื่อที่จะแบน",
-        "NO_TARGET": "❌ | Please tag target",
-        "SUCCESS": "❌ | 👌 | %user% is banned for reason: %reason%",
-        "ERROR": "🙏 | could not ban because: `%error%`",
-        "NO_REASON": "No reason"
+        "NO_TARGET": "❌ | โปรดเลือกเป้าหมาย",
+        "SUCCESS": "❌ | 👌 | %user% ถูกแบนเนื่องจาก : %reason%",
+        "ERROR": "🙏 | ไม่สามารถแบนได้เพราะ : `%error%`",
+        "NO_REASON": "ไม่มีเหตุผล"
     }
 }
