@@ -12,7 +12,7 @@
     "LINK_FAILED": "Invite link failed",
     "ACTIVITY_TITLE": "Activity: ``%name%``",
     "ACTIVITY_CREATED": "✅ Link created!",
-    "ACTIVITY_CREATED_TITLE": "VoiceChat: ``%guild_name%/%channel_name%``\nActivity: ``%activity_name%``",
+    "ACTIVITY_CREATED_TITLE": "Voice Chat: ``%guild_name%/%channel_name%``\nActivity: ``%activity_name%``",
     "ACTIVITY_CREATED_DESP": "[Click here to join %channel_name% with custom activity **%activity_name%**](https://discord.gg/%invite_code%)\n**This link will expires in 24 hrs**",
     "NOT_IN_VC": "You're not in a voice channel!",
     "API_FAILED": "Request API Failed!"
