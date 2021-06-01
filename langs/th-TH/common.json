@@ -1,0 +1,5 @@
+{
+  "USER_NO_PERM": "คุณต้องมีสิทธ์ ``%permission%`` ที่จะใช้ %action%!",
+  "BOT_NO_PERM": "บอทไม่มีสิทธ์ ``%permission%`` ที่จะใช้ %action%!",
+  "API_FILED": "API ผิดพลาด: %error%"
+}
