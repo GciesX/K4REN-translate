@@ -1,222 +1,222 @@
 {
     "ANIME_SAUCE_FINDER": {
-        "EMOJI_HELP": "React to ⭐ or 🎨 to switch anime or artwork search!",
-        "NO_IMAGE": "Please add an image, or image URL!",
-        "NOT_IMAGE": "The file/extention is not an image!",
-        "NO_PERM": "❌ K4REN or You not have ADD_REACTIONS,SEND_MESSAGE permission to switch to artwork or anime page please add permission ADD_REACTIONS,SEND_MESSAGE (switch page not available)",
+        "EMOJI_HELP": "กด ⭐ หรือ 🎨 เพื่อเปลี่ยนหน้าค้นหา ภาพวาด หรือ อนิเมะ!",
+        "NO_IMAGE": "โปรดใส่รูป, หรือใส่ลิงค์รูป!",
+        "NOT_IMAGE": "ไฟล์นี้ไม่ใช่รูปภาพ!",
+        "NO_PERM": "❌ K4REN หรือคุณไม่มีสิทธ์ ADD_REACTIONS,SEND_MESSAGE ที่จะเปลี่ยนหน้า ภาพวาด หรือ อนิเมะ โปรดเพิ่มสิทธ์ ADD_REACTIONS,SEND_MESSAGE (เนื่องจากไม่มีสิทธ์นี้ในการเปลี่ยนหน้า)",
         "ANIME": {
-            "REQUESTING": "Searching anime...",
-            "NSFW_WARN": "**NSFW Anime careful!**",
-            "UNKNOWN_COUNTRY": "Unknown origin country",
-            "UNKNOWN_FORMAT": "Unknown format",
-            "UNKNOWN_TITLE": "Unknown Title",
-            "SEARCH_RESULT": "Anime search result (%similarity%%)",
-            "EPISODE": "Episode",
-            "TIME": "Time:",
-            "DESCRIPTION": "Description",
+            "REQUESTING": "กำลังค้นหา อนิเมะ...",
+            "NSFW_WARN": "**NSFW Anime be careful!**",
+            "UNKNOWN_COUNTRY": "ไม่พบต้นฉบับ",
+            "UNKNOWN_FORMAT": "ไม่พบรูปแบบ",
+            "UNKNOWN_TITLE": "ไม่พบชื่อ",
+            "SEARCH_RESULT": "ผลการค้นหาอนิเมะ (%similarity%%)",
+            "EPISODE": "ตอน",
+            "TIME": "เวลา:",
+            "DESCRIPTION": "คำอธิบาย",
             "EXTERNAL_LINKS": "External links",
             "TITLE_ENGLISH": "English Title",
             "TITLE_ROMAJI": "Romaji Title",
             "TITLE_NATIVE": "Native Title",
-            "SYNONYMS": "Synonyms",
-            "STATUS": "Status/Source",
+            "SYNONYMS": "ชื่อเรียกแบบย่อ",
+            "STATUS": "สถานะ/แหล่งที่มา",
             "TAG": "Hashtag",
-            "THIS_SCENE": "This scene",
+            "THIS_SCENE": "ฉากนี้",
             "MAL": "Myanimelist",
             "ANILIST": "Anilist",
-            "SITE": "Offical Site",
-            "VIDEO": "Trailer",
-            "NOT_FOUND": "❌ No any anime found :(",
-            "API_FAILED": "❌ Anime search is not available for now sorry!"
+            "SITE": "เว็บหลัก",
+            "VIDEO": "ตัวอย่าง",
+            "NOT_FOUND": "❌ ไม่พบอนิเมะ :(",
+            "API_FAILED": "❌ การต้นหา อนิเมะ ไม่สามารถใช้ได้ในขณะนี้!"
         },
         "ARTWORK":{
-            "REQUESTING": "Searching artwork...",
-            "NO_TITLE": "No artwork title",
-            "SEARCH_RESULT": "Artwork search result (%similarity%%)",
-            "NOT_FOUND": "❌ No any artwork found :(",
-            "FOUND": "Found in: %source%",
-            "CHARACTER": "Character:",
-            "ARTIST": "Artist:",
-            "LINK": "Link:",
-            "MORE": "More similar (%similar_count%)",
-            "API_FAILED": "❌ Artwork/Manga search is not available for now sorry!"
+            "REQUESTING": "กำลังค้นหาภาพวาด...",
+            "NO_TITLE": "ไม่มีชื่อภาพวาด",
+            "SEARCH_RESULT": "ผลการค้นหาภาพวาด (%similarity%%)",
+            "NOT_FOUND": "❌ ไม่พบภาพวาด :(",
+            "FOUND": "พบใน: %source%",
+            "CHARACTER": "ตัวละคร:",
+            "ARTIST": "ศิลปิน:",
+            "LINK": "ลิงค์:",
+            "MORE": "ใกล้เคียง (%similar_count%)",
+            "API_FAILED": "❌ การค้นหา ภาพวาด/มังงะ ไม่สามารใช้ได้ในขณะนี้!"
         }
     },
     "ROLL": {
-        "REQUESTING": "🔄 | Rolling...",
-        "REQUEST_OK": "✅ | %user% rolls %point% point(s)"
+        "REQUESTING": "🔄 | ทอยเต๋า...",
+        "REQUEST_OK": "✅ | %user% ทอยเต๋าได้ %point% แต้ม!"
     },
     "THROW": {
-        "EMPTY_TARGET": "❌ | Please tag target by `%prefix%throw @discord_user`",
-        "GOT_THROW": "✅ | `%target%` got throw!",
-        "NO_ROOM_FOUND": "❌ | No room to throw!",
-        "USER_NOT_IN_VC": "❌ | You must in voice chat to throw!",
-        "TARGET_NOT_IN_VC": "❌ | %target% not in voice chat!"
+        "EMPTY_TARGET": "❌ | โปรดเลือกเลือกเป้าหมายโดย `%prefix%throw @discord_user`",
+        "GOT_THROW": "✅ | `%target%` ถูกโยน!",
+        "NO_ROOM_FOUND": "❌ | ไม่มีห้องให้โยน!",
+        "USER_NOT_IN_VC": "❌ | คุณต้องอยู่ในห้องพูดคุยถึงจะโยนได้!",
+        "TARGET_NOT_IN_VC": "❌ | %target% ไม่อยู่ในห้องพูดคุย!"
     },
     "INVITE": {
-        "TITLE": "Yay invite me! ~",
-        "VALUE": "✅ | [Invite K4REN Click Me!](%invite_link%) \nor %invite_link%"
+        "TITLE": "เย่~ เชิญฉันสิ! ~",
+        "VALUE": "✅ | [เชิญ K4REN คลิกเลย!](%invite_link%) \nor %invite_link%"
     },
     "HELP": {
-        "CHECK_DM": "Please check your DM!",
+        "CHECK_DM": "โปรดตรวจสอบข้อความส่วนตัว!",
         "MAIN": {
-            "TITLE": "Help commands",
-            "DISCRIPTION": "⭐ Please **REACT** to emoji to view help by category" ,
-            "DISCRIPTION_DM": "⭐ K4REN can't send help message to that channel, so i DM for now!",
+            "TITLE": "คำสั่งช่วยเหลือ",
+            "DISCRIPTION": "กด ⭐ เพื่อดูรายการ help" ,
+            "DISCRIPTION_DM": "⭐ K4REN ไม่สามารถส่งข้อความได้ help ในห้องได้, ฉันเลยส่งไปในข้อความส่วนตัว!",
             "FIELDS": [
                 {
-                    "TITLE": "⌨️ Command Category:",
-                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 Custom activity\n--> 🎵 Music Player\n--> 📊 Admin/Moderator commands\n--> ❌ - Close this message"
+                    "TITLE": "⌨️ รายการคำสั่ง:",
+                    "VALUE": "--> ⭐ - แสดง help \n--> 📝 - คำสั่งทั่วไป\n--> 💻 Activity\n--> 🎵 เล่นเพลง\n--> 📊 คำสั่ง Admin/Moderator\n--> ❌ - ปิดข้อความนี้"
                 },
                 {
-                    "TITLE": "💭 Infomation:",
-                    "VALUE": "-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> ``Uptime:`` %uptime%\n->Argument: ``(optional)`` ``<required>``\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
+                    "TITLE": "💭 ข้อมูลเพิ่มเติม:",
+                    "VALUE": "-> [เชิญบอทนี้](%invite_url%)\n-> [เว็บหลัก](https://karen.starchaser.me)\n-> ติดต่อดพื่อแจ้งปัญหา: [Karen Camp△](https://discord.starchaser.me)\n-> ``Uptime:`` %uptime%\n->Argument: ``(optional)`` ``<required>``\n\n*[Ad] ขอขอบคุณ [Gcies](https://gcies.net) ที่สนับสนุน <3\nคลิกที่นี่ [here](https://gcies.net) เพื่อดูเพิ่มเติมเกี่ยวกับ [Gcies](https://gcies.net)*"
                 }
             ]
         },
         "TIMEOUT": {
-            "TITLE": "❌・Command Timeout",
-            "DISCRIPTION": "⭐ Command timeout use %prefix%help in server text channel again to show help again!",
+            "TITLE": "❌・คำสั่งหมดเวลา",
+            "DISCRIPTION": "⭐ คำสั่งหมดเวลา พิมพ์ %prefix%help ในห้องพิมพ์เพื่อแสดง help อีกครั้ง!",
             "FIELDS": []
         },
         "CLOSED": {
             "TITLE": "❌・Help closed!",
-            "DISCRIPTION": "⭐ You can open help again by type: `%prefix%help`",
+            "DISCRIPTION": "⭐ คุณสามารถเปิด help อีกครั้งโดยพิมพ์: `%prefix%help`",
             "FIELDS": []
         },
         "GENERAL": {
-            "TITLE": "📝・ General commands",
-            "DISCRIPTION": "⭐ More Soon!",
+            "TITLE": "📝・ คำสั่งทั่วไป",
+            "DISCRIPTION": "⭐ เพิ่มเติมเร็วๆนี้!",
             "FIELDS": [
                 {
                     "TITLE": "```%prefix%roll <argument>/<number>```",
-                    "VALUE": "[TRUE RANDOM] draws a random number from 1 to the selected number. If the number is not specified or an argument is given, then the maximum number will be set to 100."
+                    "VALUE": "สุ่มเลขตามที่กำหนด ถ้าไม่ได้กำหนดตัวเลข เลขสูงสุดจะถูกตั้งไว้ที่ 100!"
                 },
                 {
                     "TITLE": "```%prefix%throw <target>```",
-                    "VALUE": "throw him by move to other VC"
+                    "VALUE": "โยนคนไปยังห้องพูดคุยอื่น"
                 },
                 {
                     "TITLE": "```%prefix%sani <image url>/<image attachment>```",
-                    "VALUE": "Find sauce (artwork or anime) from image"
+                    "VALUE": "หาต้นทาง (ภาพวาด หรือ อนิเมะ) จากรูป"
                 }
             ]
         },
         "MUSIC": {
-            "TITLE": "🎵・Music Player commands",
-            "DISCRIPTION": "⭐ You can play some music to your discord by type command here!",
+            "TITLE": "🎵・คำสั่งเล่นเพลง",
+            "DISCRIPTION": "⭐ คุณสามารถเล่นเพลงใน discord โดยพิมพิมพฺคำสั่งที่นี่!",
             "FIELDS": [
                 {
                     "TITLE": "```%prefix%clear-queue```",
-                    "VALUE": "Clear all queues"
+                    "VALUE": "เคลียคิวทั้งหมด"
                 },
                 {
                     "TITLE": "```%prefix%filter <filter_name>```",
-                    "VALUE": "toogle filter effects"
+                    "VALUE": "เปิด/ปิด filter เอฟเฟกต์"
                 },
                 {
                     "TITLE": "```%prefix%loop```",
-                    "VALUE": "set repeat song"
+                    "VALUE": "วนซ้ำเพลง"
                 },
                 {
                     "TITLE": "```%prefix%nowplaying```",
-                    "VALUE": "view current playing song"
+                    "VALUE": "ดูเพลงที่กำลังเล่นอยู่"
                 },
                 {
                     "TITLE": "```%prefix%pause```",
-                    "VALUE": "pause current song"
+                    "VALUE": "หยุดเพลงขณะนี้"
                 },
                 {
                     "TITLE": "```%prefix%play <youtube_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
-                    "VALUE": "add new song to queue or start play song"
+                    "VALUE": "เพิ่มเพลงหรือเล่นเพลง"
                 },
                 {
                     "TITLE": "```%prefix%resume```",
-                    "VALUE": "resume current song"
+                    "VALUE": "เล่นเพลงขณะนี้"
                 },
                 {
                     "TITLE": "```%prefix%back```",
-                    "VALUE": "back to previous song"
+                    "VALUE": "ไปยังเพลงก่อนหน้า"
                 },
                 {
                     "TITLE": "```%prefix%seek <time>```",
-                    "VALUE": "back to previous song"
+                    "VALUE": "เลื่อนเวลา"
                 },
                 {
                     "TITLE": "```%prefix%lyrics (songname) (artistname)```",
-                    "VALUE": "back to previous song"
+                    "VALUE": "เนื้อเพลง"
                 },
                 {
                     "TITLE": "```%prefix%search <keyword>```",
-                    "VALUE": "search for song (youtube)"
+                    "VALUE": "ค้นหาเพลง (youtube)"
                 },
                 {
                     "TITLE": "```%prefix%shuffle```",
-                    "VALUE": "shuffle queue songs"
+                    "VALUE": "สุ่มเพลงในคิว"
                 },
                 {
                     "TITLE": "```%prefix%skip```",
-                    "VALUE": "skip current song"
+                    "VALUE": "ข้ามเพลง"
                 },
                 {
                     "TITLE": "```%prefix%volume <number>```",
-                    "VALUE": "turn up/down volume"
+                    "VALUE": "เพิ่ม/ลด เสียง"
                 },
                 {
                     "TITLE": "```%prefix%filters```",
-                    "VALUE": "list of filter effect (disable or enable)"
+                    "VALUE": "รายการเอฟเฟกต์ filter (เปิด/ปิด)"
                 }
             ]
         },
         "ACTIVITY": {
-            "TITLE": "💻・ Activity commands",
-            "DISCRIPTION": "⭐ To create new activity with invite link you can use list of this commandsn `<VC_ID or VC_Name>` is optional you can join voicechat and use command without arguments",
+            "TITLE": "💻・ คำสั่ง Activity",
+            "DISCRIPTION": "กด ⭐ เพื่อสร้าง activity ใหม่ คุณสามารถใช้คำสั่งกับ `<VC_ID หรือ VC_Name>` ก็ได้ คุณสามารถเข้าห้องพูดคุยและใช้คำสั่งโดยไม่ต้องระบุ `<VC_ID หรือ VC_Name>`",
             "FIELDS": [
                 {
-                    "TITLE": "```%prefix%youtube <Room_ID or VC_Name>```",
-                    "VALUE": "Create new invite link to open activity youtube watch together!"
+                    "TITLE": "```%prefix%youtube <Room_ID หรือ VC_Name>```",
+                    "VALUE": "สร้างลิงค์ activity youtube เพื่อดูด้วยกัน!"
                 },
                 {
-                    "TITLE": "```%prefix%betrayal <Room_ID or VC_Name>```",
-                    "VALUE": "Create new invite link to open activity Betrayal.io!"
+                    "TITLE": "```%prefix%betrayal <Room_ID หรือ VC_Name>```",
+                    "VALUE": "สร้างลิงค์ activity เพื่อเล่นเกม Betrayal.io!"
                 },
                 {
-                    "TITLE": "```%prefix%fishington <Room_ID or VC_Name>```",
-                    "VALUE": "Create new invite link to open activity Fishington.io!"
+                    "TITLE": "```%prefix%fishington <Room_ID หรือ VC_Name>```",
+                    "VALUE": "สร้างลิงค์ activity เพื่อเล่นเกม Fishington.io!"
                 },
                 {
-                    "TITLE": "```%prefix%poker <Room_ID or VC_Name>```",
-                    "VALUE": "Create new invite link to open activity Fishington.io!"
+                    "TITLE": "```%prefix%poker <Room_ID หรือ VC_Name>```",
+                    "VALUE": "สร้างลิงค์ activity เพื่อเล่นเกม Poker Night!"
                 },
                 {
-                    "TITLE": "```%prefix%act <Room_ID or VC_Name> <youtube/poker/betrayal/fishington>```",
-                    "VALUE": "Create new invite link to open custom activity"
+                    "TITLE": "```%prefix%act <Room_ID หรือ VC_Name> <youtube/poker/betrayal/fishington>```",
+                    "VALUE": "สร้างลิงค์ activity!"
                 },
                 {
-                    "TITLE": "```%prefix%c-act <Room_ID or VC_Name> <activity_id>```",
-                    "VALUE": "Create new invite link to open custom activity with custom activity id"
+                    "TITLE": "```%prefix%c-act <Room_ID หรือ VC_Name> <activity_id>```",
+                    "VALUE": "สร้างลิงค์ activity เพื่อเล่นเกม activity id"
                 }
             ]
         },
         "ADMIN": {
-            "TITLE": "📊・Admin/Moderator commands",
-            "DISCRIPTION": "⭐ More Soon!",
+            "TITLE": "📊・คำสั่ง Admin/Moderator ",
+            "DISCRIPTION": "⭐ เพิ่มเติมเร็วๆนี้!",
             "FIELDS": [
                 {
                     "TITLE": "```%prefix%prefix <new_prefix>```",
-                    "VALUE": "set new command prefix"
+                    "VALUE": "สร้างคำสั่งใหม่"
                 },
                 {
                     "TITLE": "```%prefix%kick <user> (reason)```",
-                    "VALUE": "kick a member"
+                    "VALUE": "เตะสมาชิก"
                 },
                 {
                     "TITLE": "```%prefix%ban <user> (reason)```",
-                    "VALUE": "ban a member"
+                    "VALUE": "แบนสมาชิก"
                 },
                 {
                     "TITLE": "```%prefix%clearmsg <start number> <to number>```",
-                    "VALUE": "remove mmultiple message"
+                    "VALUE": "ลบหลายข้อความ"
                 }
             ]
         }
