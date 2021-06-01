@@ -66,7 +66,7 @@
             "FIELDS": [
                 {
                     "TITLE": "⌨️ Command Category:",
-                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 Custom activity\n--> 🎵 Music Player\n--> 📊 Admin/Moderator commands\n--> ❌ - Close this message"
+                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 - Custom activity\n--> 🎵 - Music Player\n--> 📊 - Admin/Moderator commands\n--> ❌ - Close this message"
                 },
                 {
                     "TITLE": "💭 Infomation:",
@@ -216,7 +216,7 @@
                 },
                 {
                     "TITLE": "```%prefix%clearmsg <start number> <to number>```",
-                    "VALUE": "remove mmultiple message"
+                    "VALUE": "remove multiple message"
                 }
             ]
         }
