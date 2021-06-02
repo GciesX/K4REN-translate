@@ -21,11 +21,18 @@
         "LIMIT": "⚠️ | You can only delete messages form start to 100 messages, please enter value",
         "EXPIRE": "⚠️ | I can't delete message more than `14` days"
     },
-    "PREFIX":{
+    "PREFIX": {
         "USER_NOPERM": "❌ | You can't do this!",
         "TOO_LONG": "❌ | Prefix too long: `%prefix%`",
         "SUCCESS": "✅ | New prefix set to `%prefix%`",
         "USAGE": "❌ | Please enter new prefix by type: `%prefix%prefix <new_prefix>`",
-        "ALREADY": "❌ | Prefix `%preifx%` already set!"
+        "ALREADY": "❌ | Prefix `%prefix%` already set!"
+    },
+    "LANG_CHANGE": {
+        "USER_NOPERM": "❌ | You can't do this!",
+        "SUCCESS": "✅ | Language set to `%lang%`",
+        "NOT_FOUND": "❌ | Language `%lang%` not found!",
+        "USAGE": "❌ | Please enter new language by type: `%prefix%lang <language_code>`",
+        "ALREADY": "❌ | Language `%lang%` already set!"
     }
 }

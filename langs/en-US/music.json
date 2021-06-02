@@ -62,7 +62,7 @@
     "PLAYLIST_ADD": "`%song%` has been added to the queue (**%count%** songs)!",
     "QUEUE_END": "Music stopped as there are no more music in the queue!",
     "SEARCH_CANCEL": "You did not provide a valid response ... Please send the command again!",
-    "SELECTION_CALCEL": "The selection has been **cancelled**!",
+    "SELECTION_CANCEL": "The selection has been **cancelled**!",
     "NOT_VALID_NUMBER": "You must send a valid number between **1** and **%count%**!",
     "SEARCH_TITLE": "Here are your search results for `%query%`",
     "TRACK_ADDED": "[%song%](%song_url%) has been added to the queue!",
