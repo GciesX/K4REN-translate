@@ -66,11 +66,11 @@
             "FIELDS": [
                 {
                     "TITLE": "⌨️ Command Category:",
-                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 Custom activity\n--> 🎵 Music Player\n--> 📊 Admin/Moderator commands\n--> ❌ - Close this message"
+                    "VALUE": "--> ⭐ - Show help categorys\n--> 📝 - General commands\n--> 💻 - Custom activity\n--> 🎵 - Music Player\n--> 📊 - Admin/Moderator commands\n--> ❌ - Close this message"
                 },
                 {
                     "TITLE": "💭 Infomation:",
-                    "VALUE": "-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> ``Uptime:`` %uptime%\n->Argument: ``(optional)`` ``<required>``\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
+                    "VALUE": "-> **Prefix:** ``%prefix%``\n-> [Invite This bot](%invite_url%)\n-> [Main Site](https://karen.starchaser.me)\n-> Contact for report bug/issues: [Karen Camp△](https://discord.starchaser.me)\n-> Uptime: ``%uptime%``\n->Argument: ``(optional)`` ``<required>``\n\nTranslator: [%translator%](https://github.com/ST4RCHASER/K4REN-translate)\n\n*[Ad] Thanks to [Gcies](https://gcies.net) to keep me alive <3\nYou can click [here](https://gcies.net) to view more about [Gcies](https://gcies.net)*"
                 }
             ]
         },
@@ -127,7 +127,7 @@
                     "VALUE": "pause current song"
                 },
                 {
-                    "TITLE": "```%prefix%play <youtube_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
+                    "TITLE": "```%prefix%play <youtube_url/youtube_music_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
                     "VALUE": "add new song to queue or start play song"
                 },
                 {
@@ -216,7 +216,7 @@
                 },
                 {
                     "TITLE": "```%prefix%clearmsg <start number> <to number>```",
-                    "VALUE": "remove mmultiple message"
+                    "VALUE": "remove multiple message"
                 }
             ]
         }
