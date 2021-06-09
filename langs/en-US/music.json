@@ -34,7 +34,7 @@
     "ALREADY_PLAYING": "The music is already playing!",
     "PAUSED": "Song `%song%` paused!",
     "RESUMED": "Song `%song%` resumed!",
-    "TITLE_EMPTY": "Please indicate the title of a song!",
+    "TITLE_EMPTY": "Please indicate the title of a song or add some song attachment!",
     "NOPERM_CONNECT": "I don't have permission ``CONNECT`` to join that voice chat!",
     "NOPERM_SPEAK": "I don't have permission ``SPEAK`` to play music that voice chat!",
     "QUEUE_LIST": "Server queue | %guild_name%",
