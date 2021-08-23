@@ -29,7 +29,7 @@
             "NOT_FOUND": "❌ No any anime found :(",
             "API_FAILED": "❌ Anime search is not available for now sorry!"
         },
-        "ARTWORK":{
+        "ARTWORK": {
             "REQUESTING": "Searching artwork...",
             "NO_TITLE": "No artwork title",
             "SEARCH_RESULT": "Artwork search result (%similarity%%)",
@@ -61,7 +61,7 @@
         "CHECK_DM": "Please check your DM!",
         "MAIN": {
             "TITLE": "Help commands",
-            "DISCRIPTION": "⭐ Please **REACT** to emoji to view help by category" ,
+            "DISCRIPTION": "⭐ Please **REACT** to emoji to view help by category",
             "DISCRIPTION_DM": "⭐ K4REN can't send help message to that channel, so i DM for now!",
             "FIELDS": [
                 {
@@ -107,6 +107,11 @@
             "DISCRIPTION": "⭐ You can play some music to your discord by type command here!",
             "FIELDS": [
                 {
+                    "TITLE": "```%prefix%play <song_url or search keyword>```",
+                    "VALUE": "add new song to queue or start play song\n*Support url:*\nyoutube(premium_support),youtube_music,spotify,soundcloud,facebook,vimeo,reverbnation,attachment links,attachment file",
+                    "OVERRIDE_INLINE": "FALSE"
+                },
+                {
                     "TITLE": "```%prefix%clear-queue```",
                     "VALUE": "Clear all queues"
                 },
@@ -125,10 +130,6 @@
                 {
                     "TITLE": "```%prefix%pause```",
                     "VALUE": "pause current song"
-                },
-                {
-                    "TITLE": "```%prefix%play <youtube_url/youtube_music_url/soundcloud_url/spotify_url/youtube_search_keyword>```",
-                    "VALUE": "add new song to queue or start play song"
                 },
                 {
                     "TITLE": "```%prefix%resume```",
@@ -205,6 +206,10 @@
                 {
                     "TITLE": "```%prefix%prefix <new_prefix>```",
                     "VALUE": "set new command prefix"
+                },
+                {
+                    "TITLE": "```%prefix%lang <new_lang_code>```",
+                    "VALUE": "change bot language current support lang code: *%support_lang_code%*"
                 },
                 {
                     "TITLE": "```%prefix%kick <user> (reason)```",
