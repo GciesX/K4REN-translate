@@ -27,7 +27,7 @@
     "VOLUME": "ระดับเสียง",
     "REPEAT_MODE": "โหมดวนซ้ำ",
     "CURRENTLY_PAUSED": "ขณะนี้กำลังหยุดอยู่",
-    "PROGRESS_BAR": "Progress bar",
+    "PROGRESS_BAR": "ระดับความสำเร็จ",
     "YES": "ใช่",
     "NO": "ไม่",
     "ALREADY_PAUSED": "เพลงถูกหยุดอยู่!",
@@ -63,7 +63,7 @@
     "QUEUE_END": "เพลงหยุดเล่นเพราะไม่มีเพลงในคิวแล้ว!",
     "SEARCH_CANCEL": "คำที่ค้นหาไม่ถูกต้อง... โปรดพิมพ์คำสั่งใหม่อีกครั้ง!",
     "SELECTION_CANCEL": "สิ่งที่ถูกเลือกถูกยกเลิก **ยกเลิก**!",
-    "NOT_VALID_NUMBER": "กรุณาระบหมายเลข **1** ถึง **%count%**!",
+    "NOT_VALID_NUMBER": "กรุณาระบุหมายเลข **1** ถึง **%count%**!",
     "SEARCH_TITLE": "นี่คือผลการค้นหาสำหรับ `%query%`",
     "TRACK_ADDED": "[%song%](%song_url%) ถูกเพิ่มในคิว!",
     "TRACK_START": "กำลังเล่น [%song%](%song_url%) ในห้อง %vc_name%..."
