@@ -6,7 +6,7 @@
         "NO_PERM": "❌ K4REN หรือคุณไม่มีสิทธ์ ADD_REACTIONS,SEND_MESSAGE ที่จะเปลี่ยนหน้า ภาพวาด หรือ อนิเมะ โปรดเพิ่มสิทธ์ ADD_REACTIONS,SEND_MESSAGE (เนื่องจากไม่มีสิทธ์นี้ในการเปลี่ยนหน้า)",
         "ANIME": {
             "REQUESTING": "กำลังค้นหา อนิเมะ...",
-            "NSFW_WARN": "**NSFW Anime be careful!**",
+            "NSFW_WARN": "**อนิเมะลามก รุนแรง โปรดระวัง!**",
             "UNKNOWN_COUNTRY": "ไม่พบต้นฉบับ",
             "UNKNOWN_FORMAT": "ไม่พบรูปแบบ",
             "UNKNOWN_TITLE": "ไม่พบชื่อ",
@@ -14,13 +14,13 @@
             "EPISODE": "ตอน",
             "TIME": "เวลา:",
             "DESCRIPTION": "คำอธิบาย",
-            "EXTERNAL_LINKS": "External links",
-            "TITLE_ENGLISH": "English Title",
-            "TITLE_ROMAJI": "Romaji Title",
-            "TITLE_NATIVE": "Native Title",
+            "EXTERNAL_LINKS": "ลิงค์จากภายนอก",
+            "TITLE_ENGLISH": "ชื่ออังกฤษ",
+            "TITLE_ROMAJI": "ชื่อโรมัน",
+            "TITLE_NATIVE": "ชื่อดั้งเดิม",
             "SYNONYMS": "ชื่อเรียกแบบย่อ",
             "STATUS": "สถานะ/แหล่งที่มา",
-            "TAG": "Hashtag",
+            "TAG": "แฮทแท็ก",
             "THIS_SCENE": "ฉากนี้",
             "MAL": "Myanimelist",
             "ANILIST": "Anilist",
@@ -80,7 +80,7 @@
             "FIELDS": []
         },
         "CLOSED": {
-            "TITLE": "❌・Help closed!",
+            "TITLE": "❌・ปิดการช่วยเหลือ!",
             "DISCRIPTION": "⭐ คุณสามารถเปิด help อีกครั้งโดยพิมพ์: `%prefix%help`",
             "FIELDS": []
         },
